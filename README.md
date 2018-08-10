@@ -1,0 +1,2 @@
+# utl_converting_32bit_ms_access_tables_to_sas_datasets_without_sas_access_products
+Converting 32bit MS access tables to SAS datasets without SAS Access products.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
